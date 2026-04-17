@@ -4,7 +4,7 @@ import re
 import shutil
 from pathlib import Path
 
-FILE_PATH = Path("workflow_orchestrator.py")
+FILE_PATH = Path("<PASTE_FILENAME>")
 
 # === ONLY EDIT THESE TWO ===
 FIND = """<PASTE_EXACT_SNIPPET_TO_FIND>"""
