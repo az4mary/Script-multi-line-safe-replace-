@@ -7,9 +7,9 @@ from pathlib import Path
 FILE_PATH = Path("workflow_orchestrator.py")
 
 # === ONLY EDIT THESE TWO ===
-FIND = """HERE"""
+FIND = """<PASTE_EXACT_SNIPPET_TO_FIND>"""
 
-REPLACE = """HERE"""
+REPLACE = """<PASTE_REPLACEMENT_SNIPPET>"""
 # ===========================
 
 def main():
